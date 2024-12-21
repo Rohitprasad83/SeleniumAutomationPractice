@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" parallel="tests" thread-count="3">
+    <test name="TextBoxTest">
+        <classes>
+            <class name="TextBoxPageTest"/>
+        </classes>
+    </test>
+    <test name="RadioButtonTest">
+        <classes>
+            <class name="RadioButtonTest"/>
+        </classes>
+    </test>
+</suite>
